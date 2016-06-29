@@ -1,0 +1,11 @@
+package:
+  name: pyconstants
+  version: 0.0.1
+
+requirements:
+  build:
+    - python
+    - setuptools
+
+  run:
+    - python
